@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: devlight.io:navigationtabbar:1.2.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aafce1c56f59da38a646f4c2b8b12d92/jetified-navigationtabbar-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aafce1c56f59da38a646f4c2b8b12d92/jetified-navigationtabbar-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aafce1c56f59da38a646f4c2b8b12d92/jetified-navigationtabbar-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c8d75ed8f48f8f3f41eb104257a9099/jetified-navigationtabbar-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c8d75ed8f48f8f3f41eb104257a9099/jetified-navigationtabbar-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c8d75ed8f48f8f3f41eb104257a9099/jetified-navigationtabbar-1.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc9eaf325b61ba146d446732bd5fc8ef/jetified-navigationtabbar-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc9eaf325b61ba146d446732bd5fc8ef/jetified-navigationtabbar-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc9eaf325b61ba146d446732bd5fc8ef/jetified-navigationtabbar-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa3cba717db0398abb281dbb27a3f2ee/jetified-navigationtabbar-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa3cba717db0398abb281dbb27a3f2ee/jetified-navigationtabbar-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa3cba717db0398abb281dbb27a3f2ee/jetified-navigationtabbar-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be59e36883d4861db8cc62ac862b3faa/jetified-navigationtabbar-1.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be59e36883d4861db8cc62ac862b3faa/jetified-navigationtabbar-1.2.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be59e36883d4861db8cc62ac862b3faa/jetified-navigationtabbar-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da67041b4a817eebd44c3218e6a3b84a/jetified-navigationtabbar-1.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da67041b4a817eebd44c3218e6a3b84a/jetified-navigationtabbar-1.2.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da67041b4a817eebd44c3218e6a3b84a/jetified-navigationtabbar-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/47f99c3b90cee8ad6db8ff787c83f760/jetified-navigationtabbar-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/47f99c3b90cee8ad6db8ff787c83f760/jetified-navigationtabbar-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/47f99c3b90cee8ad6db8ff787c83f760/jetified-navigationtabbar-1.2.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/devlight.io/navigationtabbar/1.2.5/cdfd391a8a10fed648548be748b9edc689d8215f/navigationtabbar-1.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/devlight.io/navigationtabbar/1.2.5/a8b24c899b65e34e39e2c67f1e3c5db529648911/navigationtabbar-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

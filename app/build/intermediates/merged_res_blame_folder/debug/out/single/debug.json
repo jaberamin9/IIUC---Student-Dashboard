@@ -1,0 +1,674 @@
+[
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_notice.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_all_notice.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_press_release.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout-v21\\press_release.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_chaild_item.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\chaild_item.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_vp.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\item_vp.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_advisor.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_advisor.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_notice.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\notice.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course_registration.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_course_registration.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cerclebackground.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\cerclebackground.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_course_registration_item.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\course_registration_item.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_global_menu_header.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\view_global_menu_header.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notice.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout-v21\\notice.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_background_profile.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\round_background_profile.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_focused.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_date_focused.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ter_submission.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_ter_submission.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_ter_submission_item.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\ter_submission_item.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_2.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_back_2.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_course_survey_item.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\course_survey_item.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_doun_2_corner_w.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\round_doun_2_corner_w.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_drop_item.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\add_drop_item.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_1.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\bg_1.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pdf_img.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\pdf_img.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_academic.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_academic.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tenders.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_tenders.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_2.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\bg_2.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_tenders.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\tenders.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linkedin.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_key.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_key.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_border.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\spinner_border.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_contact.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_contact.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_1.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\page_1.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a3.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\a3.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pdflinkbtn.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\pdflinkbtn.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_spinner_dropdown.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\simple_spinner_dropdown.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_horizontal_coordinator_ntb.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_horizontal_coordinator_ntb.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration_summary.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_registration_summary.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_table_view_row_header_layout.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\table_view_row_header_layout.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_table_view_corner_layout.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\table_view_corner_layout.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_img_pro.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\rounded_corners_img_pro.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_syllabus.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_syllabus.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notice_view.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_notice_view.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_registration_summary.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_registration_summary.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iiuc_logo.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\iiuc_logo.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_3.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\bg_3.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\font_agency.ttf.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\font\\agency.ttf"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a2.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\a2.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ter.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_ter.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_result_view_item.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\result_view_item.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_custompopup.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\custompopup.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_course_status_item.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\course_status_item.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email2.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\email2.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_registration_summary_item.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\registration_summary_item.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_history.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_2.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\dialog_2.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_show.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_show.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_dialog.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\rounded_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_login.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\bg_login.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_up_2_corner.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\round_up_2_corner.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_password.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_tenders.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout-v21\\tenders.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_date.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\custom_date.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_6.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\page_6.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pass.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_pass.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_lock_icon.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\custom_lock_icon.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_calculate.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_calculate.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_pro.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\rounded_corners_pro.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ter.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_ter.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notice.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_notice.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_phone.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\custom_phone.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_user_icon.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\custom_user_icon.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_press.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_press.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_date.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_5.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\bg_5.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round_rect.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\bg_round_rect.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_3.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\page_3.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_successfyull.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\dialog_successfyull.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_up.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_arrow_up.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result_view.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_result_view.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_input.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course_status.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_course_status.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_medium.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\font\\roboto_medium.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_down.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_focused.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_person_focused.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fee_calculator.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_fee_calculator.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_table_view_cell_layout.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\table_view_cell_layout.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_all_notice.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_all_notice.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_drop.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_add_drop.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_up_pro.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\rounded_corners_up_pro.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hide.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_hide.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_4.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\page_4.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_down_pro.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\rounded_corners_down_pro.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_ter_item.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\ter_item.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_focused.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_phone_focused.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_2.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_arrow_2.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_text.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person_info.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\person_info.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_completed.jpg.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\completed.jpg"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_doun_2_corner.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\round_doun_2_corner.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_round.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\text_round.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_key_focused.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_key_focused.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_2.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\page_2.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course_survey.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\activity_course_survey.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_dialog.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\round_corner_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook2.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\facebook2.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_layout.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_5.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\page_5.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_subrayada.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\font\\montserrat_subrayada.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_round.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\button_round.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_4.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\bg_4.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_telephone.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\telephone.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mail.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_mail.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_thin.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\font\\roboto_thin.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.jpg.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a1.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\a1.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_down.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_down.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_dialog2.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\round_dialog2.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_notice.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\item_notice.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bold.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_overlay.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\image_overlay.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_overview.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\drawable\\ic_overview.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_press_release.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\press_release.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\res\\merged\\debug\\layout_table_view_column_header_layout.xml.flat",
+        "source": "E:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\src\\main\\res\\layout\\table_view_column_header_layout.xml"
+    }
+]

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="250dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/round_corner_dialog"
+    android:backgroundTint="#2f333f"
+    android:padding="5dp"
+    android:layout_gravity="center">
+    <!--    #2f333f-->
+    <TextView
+        android:id="@+id/txtclose"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:textColor="@color/white"
+        android:text="X"
+        android:textStyle="bold"
+        android:layout_gravity="end"
+        android:gravity="center"
+        android:background="@drawable/cerclebackground" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/hart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:lottie_fileName="heart.json"
+            app:lottie_autoPlay="true"
+            android:layout_gravity="center"
+            app:lottie_loop="true" />
+
+        <TextView
+            android:id="@+id/linkName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PDF link"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/pdfLink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Link not pound!"
+            android:textColor="@color/white"
+            android:maxLines="5"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp"
+            android:paddingEnd="5dp"
+            android:paddingStart="5dp" />
+    </LinearLayout>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/pdfLinkBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Copy Link"
+        android:layout_marginTop="25dp"
+        android:textSize="12sp"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/pdflinkbtn"
+        android:textColor="@color/white" />
+
+</LinearLayout>

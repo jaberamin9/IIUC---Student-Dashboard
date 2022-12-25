@@ -1,0 +1,62 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menu_group_1">
+        <item
+            android:id="@+id/menu_notice"
+            android:icon="@drawable/ic_all_notice"
+            android:title="All Notice" />
+        <item
+            android:id="@+id/menu_direct"
+            android:icon="@drawable/ic_overview"
+            android:title="Course Registration" />
+        <item
+            android:id="@+id/menu_add_drop"
+            android:icon="@drawable/ic_add"
+            android:title="Add/Drop" />
+        <item
+            android:id="@+id/menu_photos_nearby"
+            android:icon="@drawable/ic_history"
+            android:title="Payment History" />
+        <item
+            android:id="@+id/menu_result_view"
+            android:icon="@drawable/ic_contact"
+            android:title="Result View" />
+        <item
+            android:id="@+id/menu_registration_ummary"
+            android:icon="@drawable/ic_registration_summary"
+            android:title="Registration Summary" />
+        <item
+            android:id="@+id/menu_course_status"
+            android:icon="@drawable/ic_syllabus"
+            android:title="Course Status" />
+        <item
+            android:id="@+id/menu_ter"
+            android:icon="@drawable/ic_ter"
+            android:title="TER" />
+        <item
+            android:id="@+id/menu_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/menu_password"
+            android:icon="@drawable/ic_pass"
+            android:title="Change Password" />
+    </group>
+
+    <group android:id="@+id/menu_group_3">
+        <item
+            android:id="@+id/fee_Calculator"
+            android:icon="@drawable/ic_calculate"
+            android:title="Fee Calculator" />
+    </group>
+
+    <group android:id="@+id/menu_group_2">
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/ic_info"
+            android:title="About" />
+        <item
+            android:id="@+id/menu_log_out"
+            android:icon="@drawable/ic_logout"
+            android:title="Log Out" />
+    </group>
+</menu>

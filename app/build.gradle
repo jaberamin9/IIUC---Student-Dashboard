@@ -1,0 +1,104 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 32
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.blogspot.softlabsja.iiucstudentapp"
+        minSdkVersion 17
+        targetSdkVersion 32
+        versionCode 24
+        versionName "0.24"
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            zipAlignEnabled true
+            shrinkResources false
+        }
+        release {
+            debuggable false
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            zipAlignEnabled true
+            shrinkResources true
+            ndk {
+                debugSymbolLevel 'SYMBOL_TABLE'
+            }
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.5.0'
+    implementation 'com.google.android.material:material:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+
+    implementation 'com.google.firebase:firebase-database:20.0.5'
+    implementation platform('com.google.firebase:firebase-bom:28.4.0')
+    implementation 'com.google.firebase:firebase-auth'
+
+//  Jsoup
+    implementation 'org.jsoup:jsoup:1.13.1'
+//  Circle Image View
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+//  Table View
+    implementation 'com.evrencoskun.library:tableview:0.8.9.2'
+//  Bottom Navigation With Tab View
+    implementation 'devlight.io:navigationtabbar:1.2.5'
+    implementation 'com.wang.avi:library:2.1.3'
+//  Floating Drawer
+    implementation 'com.mxn.soul:flowingdrawer-core:2.1.0'
+    implementation 'com.nineoldandroids:library:2.4.0'
+//  Spinner
+    implementation 'com.github.chivorns.androidx:smartmaterialspinner:1.2.1'
+//  PDF
+    implementation 'com.github.barteksc:android-pdf-viewer:3.2.0-beta.1'
+//  picasso
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.github.chrisbanes:PhotoView:2.3.0'
+    //OTP Verify
+    implementation 'com.google.android.gms:play-services-auth:20.2.0'
+    implementation 'com.google.android.gms:play-services-auth-api-phone:18.0.1'
+
+
+    implementation 'com.mindorks.android:prdownloader:0.6.0'
+
+    implementation "com.github.skydoves:progressview:1.1.2"
+    //image Zoom in/Zoom out
+    implementation 'com.github.chrisbanes:PhotoView:2.3.0'
+
+    implementation 'com.android.support:multidex:1.0.3'
+
+    //lottie
+    implementation "com.airbnb.android:lottie:4.2.2"
+
+    //custom shape view
+    implementation 'io.github.florent37:shapeofview:1.4.7'
+    //animated image view
+    implementation 'com.flaviofaria:kenburnsview:1.0.7'
+    //chrome custom tab
+    implementation 'androidx.browser:browser:1.4.0'
+
+}

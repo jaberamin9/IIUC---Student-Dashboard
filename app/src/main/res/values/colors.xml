@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#D81B60</color>
+    <color name="teal_700">#CDC51162</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorb">#3E4685</color>
+    <color name="colorb2">#d4ebfc</color>
+    <color name="cell_background_color">#ffffff</color>
+    <color name="header_line_color">#0a0a0a</color>
+    <color name="table_view_default_text_color">#0a0a0a</color>
+    <color name="backgroundColor">#F3F8FE</color>
+    <color name="overlayColor">#803E4685</color>
+    <color name="green1">#00c381</color>
+
+    <color name="md_blue_200">#0091EA</color>
+    <color name="background800">#424242</color>
+    <color name="background900">#212121</color>
+    <color name="white_56">#8effffff</color>
+    <color name="white_70">#b2ffffff</color>
+    <color name="white_87">#ddffffff</color>
+    <color name="white_93">#edf8f8f8</color>
+    <color name="hintColor">#808080</color>
+    <color name="transparent">#001BDC84</color>
+
+    <color name="sky_blue">#47D9CC</color>
+    <color name="sky_blue_light">#CAEEEA</color>
+
+    <color name="violet">#A25FE0</color>
+    <color name="violet_light">#E8DCF4</color>
+
+    <color name="blue">#448AD2</color>
+    <color name="blue_light">#C7E3F8</color>
+
+    <color name="green">#4AC840</color>
+    <color name="green_light">#CDF7C9</color>
+
+    <color name="special">#cbf6db</color>
+    <color name="special2">#ffffff</color>
+</resources>

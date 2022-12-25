@@ -1,0 +1,10 @@
+#Mon Dec 26 00:34:35 BDT 2022
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=E\:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.1=E\:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=E\:\\MyProject\\IIUC_APP_Public\\IIUCStudentAppPub\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex

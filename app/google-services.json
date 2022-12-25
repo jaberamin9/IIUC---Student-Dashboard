@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665616047045",
+    "project_id": "iiuc-student-app-e0fec",
+    "storage_bucket": "iiuc-student-app-e0fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665616047045:android:6a1b2ae10afb49871e09ac",
+        "android_client_info": {
+          "package_name": "com.blogspot.softlabsja.iiucstudentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665616047045-sbjfd2q7edgoibuvj59tf5o2mc5haea4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMv9HfLlXQ4CGnXdwJ_Q4AfB1Q0lm3RZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665616047045-sbjfd2q7edgoibuvj59tf5o2mc5haea4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
