@@ -14,7 +14,7 @@ Well, the IIUC website currently lacks responsiveness for mobile users, resultin
 
 In summary, our app not only addresses the usability issues of the IIUC website but also fills a gap in the availability of mobile applications tailored to the IIUC student community.
 
-Android Firebase ![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.007.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.008.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.009.png)**XML:** Android XML is primarily for defining the  Why do we use Firebase as a database?
+Android Firebase ![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.007.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.008.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.009.png)**XML:** Android XML is primarily for defining the  Why do we use Firebase as a database?
 
 visual layout of your app's UI.
 
@@ -24,7 +24,7 @@ visual layout of your app's UI.
 
 These two components work together to create a fully functional Android application.
 
-Functionality![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.010.png)
+Functionality![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.010.png)
 
 - Notice
 - Course Registration
@@ -41,9 +41,9 @@ Functionality![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.010.png)
 - PDF & IMG viewer
 - Download PDF & IMG
 
-Login & Forget Password![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.011.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.012.jpeg)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.013.jpeg)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.014.jpeg)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.015.jpeg)
+Login & Forget Password![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.011.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.012.jpeg)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.013.jpeg)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.014.jpeg)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.015.jpeg)
 
-**Webview ![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.016.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.017.jpeg)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.018.png)**
+**Webview ![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.016.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.017.jpeg)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.018.png)**
 
 Here, we showcased the entire website  using the built-in browser system using  a WebView. 
 
@@ -55,15 +55,15 @@ In this section, we used the Jsoup library  to retrieve data for a specific feat
 
 Here, we navigated through our  integrated feature. 
 
-![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.019.png)   ![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.020.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.021.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.022.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.023.jpeg)
+![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.019.png)   ![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.020.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.021.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.022.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.023.jpeg)
 
-All Notice ![ref6]![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.025.jpeg)
+All Notice ![ref6]![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.025.jpeg)
 
 Here, we divided it into three sections: notices, press  releases, and tenders. 
 
 Moreover, we understood the importance of efficient  information retrieval. Therefore, alongside these  sections, we integrated a powerful search feature. This  feature empowered users to swiftly locate specific  content, ensuring that they could access the most  relevant information with ease. 
 
-PDF or IMG view ![ref6]![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.026.jpeg)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.027.jpeg)
+PDF or IMG view ![ref6]![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.026.jpeg)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.027.jpeg)
 
 Here, we decode the URL to check whether it's a PDF or  an image, and then we integrate the corresponding  view into a single activity. 
 
@@ -71,7 +71,7 @@ For PDFs, we use **B[arteksc Android PdfViewer.** ](https://github.com/barteksc/
 
 Additionally, we provide a download option for saving  the PDFs or images. 
 
-Course Reg. ![ref6]![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.028.jpeg)
+Course Reg. ![ref6]![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.028.jpeg)
 
 On this page, students can select their courses and  sections. 
 
@@ -79,29 +79,29 @@ We integrate an advanced RecyclerView along with  state and an interface, which 
 
 Course Reg.![ref6]
 
-![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.029.png) ![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.030.jpeg)
+![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.029.png) ![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.030.jpeg)
 
 Here, we display selected courses  After registration is complete, redirect to this page using a popup window. and display all registered courses.
 
-![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.031.png) ![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.032.jpeg)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.033.jpeg)
+![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.031.png) ![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.032.jpeg)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.033.jpeg)
 
-![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.034.png) ![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.035.jpeg)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.036.jpeg)
+![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.034.png) ![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.035.jpeg)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.036.jpeg)
 
-Browser System ![ref6]![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.037.jpeg)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.038.jpeg)
+Browser System ![ref6]![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.037.jpeg)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.038.jpeg)
 
 We integrate our own simple browser with existing  cookies, which means there's no need to log in again in  the browser. It also has a desktop mode feature. 
 
-Open Source ![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.039.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.040.jpeg)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.041.jpeg)
+Open Source ![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.039.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.040.jpeg)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.041.jpeg)
 
 This project is available for all students who want to  learn Android development. This project helps students  learn core concepts and how to implement complex  functionality in Android. 
 
 Additionally, this app is available on the Play Store with  over 1000 active users who continuously use it. 
 
-` `![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.042.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.043.png)
+` `![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.042.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.043.png)
 
 Google Play Console
 
-Admin Panel ![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.044.png)![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.045.jpeg)
+Admin Panel ![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.044.png)![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.045.jpeg)
 
 This switch button is used to shut down the entire app. This is used to control the app version. 
 
@@ -124,9 +124,9 @@ Extra Library![ref6]
 
 Thank you for  ![ref1]![ref2]![ref3]![ref4]![ref5]staying with us 
 
-[ref1]: Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.001.png
-[ref2]: Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.002.png
-[ref3]: Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.003.jpeg
-[ref4]: Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.004.jpeg
-[ref5]: Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.005.png
-[ref6]: Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.024.png
+[ref1]: images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.001.png
+[ref2]: images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.002.png
+[ref3]: images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.003.jpeg
+[ref4]: images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.004.jpeg
+[ref5]: images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.005.png
+[ref6]: images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.024.png
