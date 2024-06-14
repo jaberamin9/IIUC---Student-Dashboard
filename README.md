@@ -1,6 +1,6 @@
 IIUC - Student  ![ref1]![ref2]![ref3]![ref4]![ref5]Dashboard   App 
 
-Objective![](Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.006.png)
+Objective![](images/Aspose.Words.e9d37bbc-049d-49a2-94eb-231991d0dd8c.006.png)
 
 This app is built using the Android framework and primarily utilizes XML and Java languages. The main function of this app is to convert the IIUC website (only student panel) into an Android app.
 
