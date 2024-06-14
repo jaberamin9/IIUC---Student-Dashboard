@@ -1,1 +1,1 @@
-Objective![](image/Slide1.PNG)
+![](image/Slide1.PNG)
