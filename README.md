@@ -1,4 +1,4 @@
-**Play Store link**
+**Play Store link:** https://play.google.com/store/apps/details?id=com.blogspot.softlabsja.iiucstudentapp
 
 ![](image/Slide1.PNG)
 ![](image/Slide2.PNG)
